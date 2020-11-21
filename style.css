@@ -59,6 +59,10 @@ main p {
   margin-top: 0;
 }
 
+footer {
+  text-align: center;
+}
+
 .bg-primary {
   background-color: #775f47;
 }
